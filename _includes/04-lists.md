@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. :-1:
+2. :deciduous_tree:
+  * :palm_tree:
+  * :christmas_tree:
